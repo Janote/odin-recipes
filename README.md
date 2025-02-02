@@ -1,1 +1,1 @@
-Welcome to my repo! This one is about recipes, 
+Bienvenidos a mi repositorio, es mi primer proyecto en Odin! 
